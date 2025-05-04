@@ -1,6 +1,6 @@
 ## Hi, Im Lauren!
 
-😻Computer Sciene student at UW-Milwaukee<br/>
+😻Computer Science student at UW-Milwaukee<br/>
 😼Python Instructor at Girls Who Code<br/>
 😺Currently learning : Java<br/>
 🙀In Progress... Personal Projects<br/>
