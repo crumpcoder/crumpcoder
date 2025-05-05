@@ -1,5 +1,8 @@
-## Hi, Im Lauren!
-![200w](https://github.com/user-attachments/assets/7f0f98d9-441c-4068-83f8-bdfcb28d328b)
+## Hi, I'm Lauren!
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=crumpcoder)<br/>
+
+![200w](https://github.com/user-attachments/assets/7f0f98d9-441c-4068-83f8-bdfcb28d328b)<br/>
 
 😻Computer Science student at UW-Milwaukee<br/>
 😼Python Instructor at Girls Who Code<br/>
