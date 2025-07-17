@@ -6,8 +6,8 @@
 
 😻Computer Science student at UW-Milwaukee<br/>
 😼Python Instructor at Girls Who Code<br/>
-😺Currently learning : Java<br/>
-🙀In Progress... Personal Projects<br/>
+😺Currently learning : Java, JavaScript, Terraform<br/>
+🙀In Progress... Sudoku Game<br/>
 😸Find my Portfolio here : https://ladycrumppet.artstation.com/<br/>
 
 ## 🌐 Socials:
